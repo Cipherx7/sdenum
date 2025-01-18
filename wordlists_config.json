@@ -1,0 +1,5 @@
+{
+    "amass": "wordlist.txt",
+    "sublist3r": "sublist3r_default_wordlist.txt",
+    "ffuf": "wordlist.txt"
+}
