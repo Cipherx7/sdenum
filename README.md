@@ -1,4 +1,4 @@
-### Simplified Description
+# SDenum - Subdomain Enumeration Tool
 This script is a **Subdomain Enumeration Tool** designed for ethical hacking and security purposes. It utilizes tools like **Amass**, **Sublist3r**, and **FFUF** to find subdomains of a target domain. The script supports customization of wordlists, combines results from all tools, and saves the output in a unified file. It is beginner-friendly, with clear error messages and usage instructions.
 
 ---
